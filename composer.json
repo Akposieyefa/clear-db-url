@@ -1,0 +1,19 @@
+{
+    "name": "akposieyefa/clear-db-url",
+    "description": "Get Clear Db url for core php development",
+    "autoload": {
+        "psr-4": {
+            "Akposieyefa\\ClearDbUrl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akposieyefa",
+            "email": "orutu1@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
